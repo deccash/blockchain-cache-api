@@ -1,0 +1,22 @@
+{
+  "bindIp": "0.0.0.0",
+  "httpPort": 288,
+  "corsHeader": "*",
+  "coinDecimals": 8,
+  "defaultMixins": 0,
+  "emissionSpeed": 23,
+  "maxSupply": 5000000000000,
+  "queues": {
+    "relayAgent": "request.network"
+  },
+  "nodeFee": {
+    "address": "",
+    "amount": 0
+  },
+  "blacklistedIps": [],
+  "useCompression": false,
+  "useNodeMonitor": false,
+  "usePoolMonitor": false,
+  "useRedisCache": false,
+  "checkPointsDomain": "checkpoints.deccash.dev"
+}

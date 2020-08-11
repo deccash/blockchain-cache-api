@@ -1,0 +1,18 @@
+{
+  "mysql": {
+    "host": "localhost",
+    "port": 3306,
+    "username": "deccash",
+    "password": "Drfxv334_223",
+    "database": "deccash",
+    "connectionLimit": 10
+  },
+  "bindIp": "0.0.0.0",
+  "httpPort": 288,
+  "corsHeader": "*",
+  "coinDecimals": 8,
+  "defaultMixins": 0,
+  "queues": {
+    "relayAgent": "request.network"
+  }
+}
